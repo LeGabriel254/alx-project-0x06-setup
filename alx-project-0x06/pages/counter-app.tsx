@@ -49,6 +49,6 @@ const CounterApp: React.FC = () => {
       </p>
     </div>
   );
-}
+};
 
 export default CounterApp;
